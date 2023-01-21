@@ -9,7 +9,7 @@
 - Open your terminal and go to directory you want to install the project
 - Copy this commmand to your terminal
 ```
-git clone https://github.com/SU-CS308-22FA/CS_308_Team3.git
+git clone https://github.com/egemetin27/Referee-Assignment-System.git
 ```
 
 ### How to set up the project
@@ -60,7 +60,7 @@ npm start
 
 ### If you want to report a bug, please do the following
 
-- Go to the link: https://github.com/SU-CS308-22FA/CS_308_Team3/issues
+- Go to the link: https://github.com/egemetin27/Referee-Assignment-System/issues
 - Click on the green New Issue button to open a new issue 
 - Provide your title to the single line on the top
 - Provide your description and the screenshots to the rich text box below
